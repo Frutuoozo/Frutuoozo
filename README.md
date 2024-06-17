@@ -1,24 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A30000&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Oi+👋+,+Me+chamo+Letícia+Frutuozo;⚡+Tenho+19+anos;I+study+Computer+Science+📚)](https://git.io/typing-svg)
+<!--  Apresentação  -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=Oi+👋+,+Me+chamo+Letícia;⚡+Tenho+19+anos;I+study+Computer+Science+📚)](https://git.io/typing-svg)
+<hr>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Frutuoozo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=D40000&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frutuoozo&layout=compact&hide_border=true&title_color=ffffff&text_color=00bfbf&bg_color=0d1117" />
+<!--  Redes Sociais  -->
+<div align="center">
+<a href="https://www.instagram.com/frutuoozo/?utm_source=ig_web_button_share_sheet" target="_blank"><img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/3f293a55-87cb-47fd-9e40-0123c1373803"</a> 
+<a href="https://www.linkedin.com/in/leticiafrutuozo/" target="_blank"><img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/3c5a55fc-be0f-43c7-9bf3-672e11d67640"</a> 
+<a href="https://t.me/Frutuoozo" target="_blank"><img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/2c233a64-9207-4564-b827-3d70474e0177"</a> 
+<a href="https://pin.it/7A6wwFTow" target="_blank"><img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/b93523f6-0da6-4bbc-8149-ff1cad420313"</a>
 </div>
 
+
+<!--  Habilidades  -->
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
- <hr>
- 
+ <!--  Ferramentas  -->
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
@@ -27,9 +30,34 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-<div align="center">  
-<a href="https://www.instagram.com/frutuoozo/?utm_source=ig_web_button_share_sheet" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/leticiafrutuozo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+<!--  Estudos  -->
+### study:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A30000&height=120&section=footer"/>
+<!--  Estatisticas  -->
+<h3>
+  <picture>
+    <source type="image/webp" srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" />
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20" />
+  </picture>
+  Minhas estatísticas
+</h3>
+<table align="center">
+  <tr>
+    <td width="55%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danielnevesfonseca&theme=algolia&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=danielnevesfonseca&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br" alt="" align="center" width="100%" />
+      </picture>
+      <br></br>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=danielnevesfonseca&theme=algolia&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=danielnevesfonseca&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" alt="" align="center" width="100%"/>
+      </picture>
+    </td>
+  </tr>
+</table>
+
