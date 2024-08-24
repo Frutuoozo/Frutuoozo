@@ -14,8 +14,6 @@
   <img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/2c233a64-9207-4564-b827-3d70474e0177"</a>
   <a href="#" text-decoration= "none" target="_blank">
   <img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/0ed6f1c0-8a28-4e39-aa0d-1fe8ef4a2a92"</a>
-<a href="https://pin.it/7A6wwFTow" text-decoration= "none" target="_blank">
-  <img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/b93523f6-0da6-4bbc-8149-ff1cad420313"</a>
 
 </div>
 
@@ -27,7 +25,6 @@
 ### Main skills:
 <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> ㅤ
 <img align="center" alt="LinguagemC" height="30" width="30" src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/6b5e5a29-2163-463c-9860-c7d967c4a9cf"> ㅤ
-<img align="center" alt="Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> ㅤ
 <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> ㅤ
 <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> ㅤ
 <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> ㅤ
