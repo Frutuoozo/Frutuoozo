@@ -8,7 +8,7 @@
   
 <a href="https://www.instagram.com/frutuoozo/?utm_source=ig_web_button_share_sheet" text-decoration= "none" target="_blank">
   <img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/3f293a55-87cb-47fd-9e40-0123c1373803"</a> 
-<a href="https://www.linkedin.com/in/leticiafrutuozo/" text-decoration= "none" target="_blank">
+<a href="https://www.linkedin.com/in/leticiafrutuozocc/" text-decoration= "none" target="_blank">
   <img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/3c5a55fc-be0f-43c7-9bf3-672e11d67640"</a> 
 <a href="https://t.me/Frutuoozo" text-decoration= "none" target="_blank">
   <img src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/2c233a64-9207-4564-b827-3d70474e0177"</a>
@@ -23,7 +23,6 @@
 <div display="flex" justify-content= "space-around" width= "50%">
 
 ### Main skills:
-<img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> ㅤ
 <img align="center" alt="LinguagemC" height="30" width="30" src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/6b5e5a29-2163-463c-9860-c7d967c4a9cf"> ㅤ
 <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> ㅤ
 <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> ㅤ
@@ -41,7 +40,6 @@
 <img align="center" alt="git" height="30" width="30" src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/f7d49fab-db5e-40e1-95a5-f163cc670b73">ㅤ
 <img align="center" alt="github" height="30" width="30" src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/5f0f5abd-8fd6-4504-b925-a531069cc8e8">ㅤ
 <img align="center" alt="officie" height="30" width="30" src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/be3e1db8-9c87-4c97-8b3f-2a5521b14d28">ㅤ
-<img align="center" alt="windows" height="30" width="30" src="https://github.com/Frutuoozo/Frutuoozo/assets/159598254/96d00db4-b5cd-457f-9833-7cc7bf92e6f4"> ㅤ
 </div>
 
 <br>
