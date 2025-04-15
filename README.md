@@ -1,7 +1,7 @@
 ### Hi, i'm Letícia 👋😁
 
 Atualmente estou cursando o Ciências da Computação.
-<li>💻 Minha primeira experiência com programação foi em 2022 com bots de whatsapp.
+<li>💻 Minha primeira experiência com programação foi em 2023 com bots de whatsapp.
 <li>✈️ Procuro sempre aprimar praticando minhas habilidades de programação.
 <li>🎯 Linguagem que pratico:
 
