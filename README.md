@@ -1,8 +1,9 @@
 ### Hi, i'm Letícia 👋😁
 
-💻 Sou apaixonada por tecnologia e estudante de Ciências da Computação🎓. Gosto de aprender novas linguagens de programação e praticar minha lógica para evoluir na área. 🚀
-
-
+Atualmente estou cursando o Ciências da Computação.
+<li>💻 Minha primeira experiência com programação foi em 2022 com bots de whatsapp.
+<li>✈️ Procuro sempre aprimar praticando minhas habilidades de programação.
+<li>🎯 Linguagem que pratico:
 
 #### 📚 Main Stacks:
 
